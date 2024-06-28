@@ -23,7 +23,7 @@ The key components of the architecture include:
 
 ## Architecture Diagram:
 
-![](images/Project-08.drawio.png)
+![](Images/Project-08.drawio.png)
 
 ## Step-by-Step Implementation:
 
@@ -37,7 +37,7 @@ The key components of the architecture include:
 
 - Click on Create after filling the options appropriately.
 
-![](Images/create-VPC.png)
+![](Images/create-vpc.png)
 
 ![](Images/vpc-view.png)
 
